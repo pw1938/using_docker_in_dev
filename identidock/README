@@ -1,0 +1,5 @@
+# Using Docker Code Examples
+## "Using Docker in Development"
+
+** version-2
+** Dockerfile changed: uWSGI==2.0.17.1 **
