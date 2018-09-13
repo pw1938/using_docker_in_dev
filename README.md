@@ -1,6 +1,5 @@
 # Using Docker Code Examples
-## "User Docker in Development"
-
-
+## "Using Docker in Development"
 
 ** Dockerfile changed: uWSGI==2.0.17.1 **
+** Adaptations for Jenkins-LTS **
